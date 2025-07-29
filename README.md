@@ -29,8 +29,8 @@ A full-featured job portal built with Laravel 10, allowing employers to post job
 
 ## 🛠️ Tech Stack
 
-- Laravel 10
-- MySQL
+- Laravel 12
+- Postgresql
 - Blade Templates
 - Bootstrap 5
 - JavaScript (Vanilla/AJAX)
