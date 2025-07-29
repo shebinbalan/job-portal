@@ -1,4 +1,4 @@
-# 🧑‍💼 Job Portal - Laravel 10
+# 🧑‍💼 Job Portal - Laravel 12
 
 A full-featured job portal built with Laravel 10, allowing employers to post jobs and job seekers to apply, manage resumes, save jobs, and more.
 
